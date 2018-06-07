@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lezione Unity", "Lezione Unity.csproj", "{AFF3F6A6-6DB9-CD1B-0E28-6172F1D382DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lezione Unity.Plugins", "Lezione Unity.Plugins.csproj", "{4ABD9273-A17E-A178-CEBE-C27F868DE5E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lezione Unity.Editor", "Lezione Unity.Editor.csproj", "{3BA30866-3DD0-A1F1-F047-957642A09339}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lezione Unity.Editor.Plugins", "Lezione Unity.Editor.Plugins.csproj", "{2FAFEEE6-CF32-4391-0228-15F671B5B18E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFF3F6A6-6DB9-CD1B-0E28-6172F1D382DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFF3F6A6-6DB9-CD1B-0E28-6172F1D382DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFF3F6A6-6DB9-CD1B-0E28-6172F1D382DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFF3F6A6-6DB9-CD1B-0E28-6172F1D382DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4ABD9273-A17E-A178-CEBE-C27F868DE5E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ABD9273-A17E-A178-CEBE-C27F868DE5E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ABD9273-A17E-A178-CEBE-C27F868DE5E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ABD9273-A17E-A178-CEBE-C27F868DE5E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BA30866-3DD0-A1F1-F047-957642A09339}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BA30866-3DD0-A1F1-F047-957642A09339}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BA30866-3DD0-A1F1-F047-957642A09339}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BA30866-3DD0-A1F1-F047-957642A09339}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FAFEEE6-CF32-4391-0228-15F671B5B18E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FAFEEE6-CF32-4391-0228-15F671B5B18E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FAFEEE6-CF32-4391-0228-15F671B5B18E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FAFEEE6-CF32-4391-0228-15F671B5B18E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

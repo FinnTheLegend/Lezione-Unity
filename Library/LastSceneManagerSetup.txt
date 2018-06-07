@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/Bask8 lvl1.unity
+  isLoaded: 1
+  isActive: 1
