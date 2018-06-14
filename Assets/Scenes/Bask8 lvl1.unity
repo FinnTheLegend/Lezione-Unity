@@ -8927,13 +8927,13 @@ MonoBehaviour:
         colorIndex: 0
       actionData:
         actionNames:
-        - HutongGames.PlayMaker.Actions.BoolNoneTrue
+        - HutongGames.PlayMaker.Actions.BoolTest
         customNames:
         - 
         actionEnabled: 01
         actionIsOpen: 01
         actionStartIndex: 00000000
-        actionHashCodes: 80768705
+        actionHashCodes: a4c8bf00
         unityObjectParams: []
         fsmGameObjectParams: []
         fsmOwnerDefaultParams: []
@@ -8957,41 +8957,27 @@ MonoBehaviour:
           showInInspector: 0
           networkSync: 0
           value: 0
-        - useVariable: 1
-          name: PallaInManoNigga
-          tooltip: 
-          showInInspector: 0
-          networkSync: 0
-          value: 0
-        - useVariable: 1
-          name: 
-          tooltip: 
-          showInInspector: 0
-          networkSync: 0
-          value: 0
         fsmVector2Params: []
         fsmVector3Params: []
         fsmColorParams: []
         fsmRectParams: []
         fsmQuaternionParams: []
         stringParams:
+        - 
         - BallNotLocked
         byteData: 01
-        arrayParamSizes: 02000000
-        arrayParamTypes:
-        - HutongGames.PlayMaker.FsmBool
+        arrayParamSizes: 
+        arrayParamTypes: []
         customTypeSizes: 
         customTypeNames: []
-        paramDataType: 0c0000001100000011000000170000001100000001000000
+        paramDataType: 11000000170000001700000001000000
         paramName:
-        - boolVariables
-        - 
-        - 
-        - sendEvent
-        - storeResult
+        - boolVariable
+        - isTrue
+        - isFalse
         - everyFrame
-        paramDataPos: 000000000000000001000000000000000200000000000000
-        paramByteDataSize: 000000000000000000000000000000000000000001000000
+        paramDataPos: 00000000000000000100000000000000
+        paramByteDataSize: 00000000000000000000000001000000
     - name: Lanciata
       description: 
       colorIndex: 0
@@ -9144,7 +9130,7 @@ MonoBehaviour:
     locked: 0
     manualUpdate: 0
     keepDelayedEventsOnStateExit: 0
-    preprocessed: 1
+    preprocessed: 0
     ExposedEvents: []
     RestartOnEnable: 1
     EnableDebugFlow: 0
@@ -9159,7 +9145,7 @@ MonoBehaviour:
     handleCollisionEnter2D: 0
     handleCollisionExit2D: 0
     handleCollisionStay2D: 0
-    handleTriggerEnter: 1
+    handleTriggerEnter: 0
     handleTriggerExit: 0
     handleTriggerStay: 0
     handleCollisionEnter: 0
@@ -16194,7 +16180,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: 1.5
+          value: 1
         - useVariable: 1
           name: 
           tooltip: 
@@ -33192,7 +33178,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1129409560}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -6.7, y: 2.35, z: -38.1}
+  m_LocalPosition: {x: -7, y: 2.35, z: -38.1}
   m_LocalScale: {x: 3, y: 3, z: 3}
   m_Children:
   - {fileID: 956402454}
@@ -34162,7 +34148,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: 1.5
+          value: 1
         - useVariable: 1
           name: 
           tooltip: 
@@ -34277,7 +34263,7 @@ MonoBehaviour:
     locked: 0
     manualUpdate: 0
     keepDelayedEventsOnStateExit: 0
-    preprocessed: 0
+    preprocessed: 1
     ExposedEvents: []
     RestartOnEnable: 1
     EnableDebugFlow: 0
@@ -45583,14 +45569,12 @@ MonoBehaviour:
       actionData:
         actionNames:
         - HutongGames.PlayMaker.Actions.BoolTest
-        - HutongGames.PlayMaker.Actions.BoolNoneTrue
         customNames:
         - 
-        - 
-        actionEnabled: 0001
-        actionIsOpen: 0101
-        actionStartIndex: 0000000004000000
-        actionHashCodes: a4c8bf0080768705
+        actionEnabled: 01
+        actionIsOpen: 01
+        actionStartIndex: 00000000
+        actionHashCodes: a4c8bf00
         unityObjectParams: []
         fsmGameObjectParams: []
         fsmOwnerDefaultParams: []
@@ -45614,24 +45598,6 @@ MonoBehaviour:
           showInInspector: 0
           networkSync: 0
           value: 0
-        - useVariable: 1
-          name: PallaInMano
-          tooltip: 
-          showInInspector: 0
-          networkSync: 0
-          value: 0
-        - useVariable: 1
-          name: PallaInManoNigga
-          tooltip: 
-          showInInspector: 0
-          networkSync: 0
-          value: 0
-        - useVariable: 1
-          name: 
-          tooltip: 
-          showInInspector: 0
-          networkSync: 0
-          value: 0
         fsmVector2Params: []
         fsmVector3Params: []
         fsmColorParams: []
@@ -45640,27 +45606,19 @@ MonoBehaviour:
         stringParams:
         - 
         - BallNotLocked
-        - BallNotLocked
-        byteData: 0101
-        arrayParamSizes: 02000000
-        arrayParamTypes:
-        - HutongGames.PlayMaker.FsmBool
+        byteData: 01
+        arrayParamSizes: 
+        arrayParamTypes: []
         customTypeSizes: 
         customTypeNames: []
-        paramDataType: 110000001700000017000000010000000c0000001100000011000000170000001100000001000000
+        paramDataType: 11000000170000001700000001000000
         paramName:
         - boolVariable
         - isTrue
         - isFalse
         - everyFrame
-        - boolVariables
-        - 
-        - 
-        - sendEvent
-        - storeResult
-        - everyFrame
-        paramDataPos: 00000000000000000100000000000000000000000100000002000000020000000300000001000000
-        paramByteDataSize: 00000000000000000000000001000000000000000000000000000000000000000000000001000000
+        paramDataPos: 00000000000000000100000000000000
+        paramByteDataSize: 00000000000000000000000001000000
     - name: Lanciata
       description: 
       colorIndex: 0
