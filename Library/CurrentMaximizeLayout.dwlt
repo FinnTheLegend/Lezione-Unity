@@ -19,10 +19,10 @@ MonoBehaviour:
     y: 30
     width: 1536
     height: 731
-  m_MinSize: {x: 1079, y: 442}
-  m_MaxSize: {x: 12006, y: 8042}
+  m_MinSize: {x: 683, y: 471}
+  m_MaxSize: {x: 14002, y: 14021}
   vertical: 1
-  controlID: 14684
+  controlID: 17445
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -48,7 +48,7 @@ MonoBehaviour:
     x: 325
     y: 19
     width: 928
-    height: 427
+    height: 430
   m_PersistentViewDataDictionary: {fileID: 0}
   m_MaximizeOnPlay: 1
   m_Gizmos: 0
@@ -60,8 +60,8 @@ MonoBehaviour:
     m_VRangeLocked: 0
     m_HBaseRangeMin: -464
     m_HBaseRangeMax: 464
-    m_VBaseRangeMin: -205
-    m_VBaseRangeMax: 205
+    m_VBaseRangeMin: -206.5
+    m_VBaseRangeMax: 206.5
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -79,9 +79,9 @@ MonoBehaviour:
       x: 0
       y: 17
       width: 928
-      height: 410
+      height: 413
     m_Scale: {x: 1, y: 1}
-    m_Translation: {x: 464, y: 205}
+    m_Translation: {x: 464, y: 206.5}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
@@ -89,14 +89,14 @@ MonoBehaviour:
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
       x: -464
-      y: -205
+      y: -206.5
       width: 928
-      height: 410
+      height: 413
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_TargetTexture: {fileID: 0}
   m_CurrentColorSpace: 0
-  m_LastWindowPixelSize: {x: 928, y: 427}
+  m_LastWindowPixelSize: {x: 928, y: 430}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000100000100
@@ -120,10 +120,10 @@ MonoBehaviour:
     y: 0
     width: 1536
     height: 731
-  m_MinSize: {x: 1079, y: 442}
-  m_MaxSize: {x: 12006, y: 8042}
+  m_MinSize: {x: 683, y: 471}
+  m_MaxSize: {x: 14002, y: 14021}
   vertical: 0
-  controlID: 14685
+  controlID: 17446
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -144,10 +144,10 @@ MonoBehaviour:
     y: 0
     width: 1255
     height: 731
-  m_MinSize: {x: 802, y: 442}
-  m_MaxSize: {x: 8004, y: 8042}
+  m_MinSize: {x: 406, y: 471}
+  m_MaxSize: {x: 10000, y: 14021}
   vertical: 1
-  controlID: 14686
+  controlID: 17447
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -167,11 +167,11 @@ MonoBehaviour:
     x: 0
     y: 0
     width: 1255
-    height: 448
-  m_MinSize: {x: 404, y: 221}
-  m_MaxSize: {x: 8004, y: 4021}
+    height: 451
+  m_MinSize: {x: 406, y: 221}
+  m_MaxSize: {x: 8006, y: 4021}
   vertical: 0
-  controlID: 14652
+  controlID: 17448
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -189,9 +189,9 @@ MonoBehaviour:
     x: 0
     y: 0
     width: 323
-    height: 448
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+    height: 451
+  m_MinSize: {x: 202, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 7}
   m_Panes:
   - {fileID: 7}
@@ -222,13 +222,13 @@ MonoBehaviour:
     x: 0
     y: 92
     width: 321
-    height: 427
+    height: 430
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 0e570000
-    m_LastClickedID: 22286
-    m_ExpandedIDs: a889fdff36d1ffff44d1ffff5cd1ffff2af7ffff00000000765700008a570000025800004c580000fc580000
+    scrollPos: {x: 0, y: 797.63715}
+    m_SelectedIDs: d667e8ff
+    m_LastClickedID: -1546282
+    m_ExpandedIDs: 5e22e8ff3442e8ffd667e8ffba95e8ff0a19edffa621edff743cedff1e6fedff206fedff326fedff446fedff4e6fedff506fedffd034ffffa83affff28f4ffff00000000685700006c570000ba570000945800007a5900007e590000c4590000d85900006c5a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -268,7 +268,7 @@ MonoBehaviour:
     x: 323
     y: 0
     width: 932
-    height: 448
+    height: 451
   m_MinSize: {x: 204, y: 221}
   m_MaxSize: {x: 4004, y: 4021}
   m_ActualView: {fileID: 2}
@@ -304,17 +304,17 @@ MonoBehaviour:
     x: 325
     y: 92
     width: 928
-    height: 427
+    height: 430
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SceneLighting: 1
-  lastFramingTime: 4394.428270948287
+  lastFramingTime: 8207.046332444444
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -5.548686, y: 5.6795254, z: -12.830689}
+    m_Target: {x: 18.231009, y: 2.8605156, z: 1.1384053}
     speed: 2
-    m_Value: {x: -5.548686, y: 5.6795254, z: -12.830689}
+    m_Value: {x: 18.231009, y: 2.8605156, z: 1.1384053}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -338,13 +338,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
+    m_Target: {x: -0.19257107, y: 0.742278, z: -0.24014562, w: -0.5952204}
     speed: 2
-    m_Value: {x: -0.7071068, y: 0, z: -0, w: -0.7071068}
+    m_Value: {x: -0.1925694, y: 0.74227154, z: -0.24014354, w: -0.5952152}
   m_Size:
-    m_Target: 74.43866
+    m_Target: 58.916195
     speed: 2
-    m_Value: 74.43866
+    m_Value: 58.916195
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -550,12 +550,8 @@ MonoBehaviour:
       e32: 0
       e33: 1
   m_PreviewAnimator: {fileID: 0}
-  m_AnimatorController: {fileID: 9100000, guid: d3ec0c2ac47a8754eb4aab90c0d2124b,
-    type: 2}
-  m_BreadCrumbs:
-  - m_Target: {fileID: 1107709342776371830, guid: d3ec0c2ac47a8754eb4aab90c0d2124b,
-      type: 2}
-    m_ScrollPosition: {x: 0, y: 0}
+  m_AnimatorController: {fileID: 0}
+  m_BreadCrumbs: []
   stateMachineGraph: {fileID: 0}
   stateMachineGraphGUI: {fileID: 0}
   blendTreeGraph: {fileID: 0}
@@ -581,19 +577,19 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
-    y: 448
+    y: 451
     width: 1255
-    height: 283
-  m_MinSize: {x: 800, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
-  m_ActualView: {fileID: 15}
+    height: 280
+  m_MinSize: {x: 230, y: 250}
+  m_MaxSize: {x: 10000, y: 10000}
+  m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
   - {fileID: 14}
   - {fileID: 15}
   - {fileID: 16}
-  m_Selected: 2
-  m_LastSelected: 0
+  m_Selected: 0
+  m_LastSelected: 2
 --- !u!114 &13
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -617,9 +613,9 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 540
+    y: 543
     width: 1253
-    height: 262
+    height: 259
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SearchFilter:
     m_NameFilter: 
@@ -633,19 +629,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets
+    - Assets/Materials
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/Materials
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\barbo\Documents\GitHub\Lezione-Unity
+  m_LastProjectPath: C:\Users\tonyh\Documents\GitHub\Lezione-Unity
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: d6460000
-    m_LastClickedID: 18134
-    m_ExpandedIDs: 00000000d6460000544700006c4700004a480000544800006c4800008e480000ba4900004e4a0000964a0000704b0000a44b0000324c00009a4c0000164d0000704e00004e4f00003850000082500000205100005851000098520000f25200005a5300007e5300001c540000f654000018550000a255000000ca9a3bffffff7f
+    m_SelectedIDs: a8480000
+    m_LastClickedID: 18600
+    m_ExpandedIDs: 000000000e4700008c470000a4470000824800008c480000ca480000944a0000de4a0000bc4b0000f24b00007e4c0000e44c0000624d0000c64e0000a44f000092500000dc500000e25000001451000080510000ba51000018530000dc530000005400009e54000078550000925500009a5500002656000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -673,7 +669,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000d6460000544700006c4700004a480000544800006c4800008e480000ba4900004e4a0000964a0000704b0000a44b0000324c00009a4c0000164d0000704e00004e4f00003850000082500000205100005851000098520000f25200005a5300007e5300001c540000f654000018550000a255000000ca9a3bffffff7f
+    m_ExpandedIDs: 000000000e4700008c470000a4470000824800008c480000ca480000944a0000de4a0000bc4b0000f24b00007e4c0000e44c0000624d0000c64e0000a44f000092500000dc500000e25000001451000080510000ba51000018530000dc530000005400009e54000078550000925500009a5500002656000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -698,10 +694,10 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: a8def6ff
-    m_LastClickedInstanceID: -598360
+    m_SelectedInstanceIDs: d667e8ff
+    m_LastClickedInstanceID: -1546282
     m_HadKeyboardFocusLastEvent: 0
-    m_ExpandedInstanceIDs: c62300000a3c0000b2320000203800006a340000b6940000cc530000000000007a130100c85b0000
+    m_ExpandedInstanceIDs: c62300000a3c0000b2320000203800006a340000b6940000cc5300007a130100c85b000000000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -725,7 +721,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 0}
+    m_ScrollPosition: {x: 0, y: 162}
     m_GridSize: 64
   m_DirectoriesAreaWidth: 284
 --- !u!114 &14
@@ -751,9 +747,9 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 527
-    width: 1164
-    height: 275
+    y: 540
+    width: 1253
+    height: 262
   m_PersistentViewDataDictionary: {fileID: 0}
 --- !u!114 &15
 MonoBehaviour:
@@ -795,16 +791,397 @@ MonoBehaviour:
       zoom: 1
     selectionHistory:
       backList:
-      - fsmComponentID: 22416
+      - fsmComponentID: 22390
         fsmComponent: {fileID: 0}
         fsmTemplate: {fileID: 0}
-      - fsmComponentID: 22610
+      - fsmComponentID: -1095340
         fsmComponent: {fileID: 0}
         fsmTemplate: {fileID: 0}
-      - fsmComponentID: 22392
+      - fsmComponentID: -1100204
         fsmComponent: {fileID: 0}
         fsmTemplate: {fileID: 0}
-      - fsmComponentID: -610448
+      - fsmComponentID: -1100208
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -1100204
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -1100208
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -1100204
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -1100208
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -1100204
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -1100208
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -1100204
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -1100208
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -1100204
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -1100208
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -1100204
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -1095342
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -1100204
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -1100208
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -1100204
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -1100208
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -1100204
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -1100208
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -1108026
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -1108020
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -1108026
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -1108020
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -1108026
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -1108020
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -1108026
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -1108020
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -1108026
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -1021426
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -1021420
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -1021424
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -1021420
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -1021426
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -890536
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -1021426
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -890536
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -1021426
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -1021420
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -1021422
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -1021424
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -1021426
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -1021424
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -1021422
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -1021420
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -1021424
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -1021426
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -1021420
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -1021426
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -1021420
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -1021426
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -1021420
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -1021426
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -1021424
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -1021420
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -1021426
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -1021420
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -1021426
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -1021424
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -1021420
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -1021422
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -1021424
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -1021422
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -1021424
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -1021422
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -1021424
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -1021422
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -1021424
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -1021422
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -1021424
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -1021422
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -839560
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -378996
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -881022
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -515556
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -849792
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -518440
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -883072
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -521978
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -883072
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -518440
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -849792
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -515556
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -378996
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -839560
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -890542
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -890532
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -890540
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -890528
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -890538
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -890530
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -890536
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -890526
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -890536
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -890530
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -890538
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -890528
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -890540
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -890532
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -890542
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -890536
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -890540
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -515556
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -849792
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -883072
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -521978
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -849792
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -515556
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -839560
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -515556
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -839560
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -521978
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -849792
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -515556
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -849792
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -521978
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -849792
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -518440
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -515556
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -839560
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -378996
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -521978
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -378996
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -518440
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -515556
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -378996
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: 22838
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: 23052
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: 22580
         fsmComponent: {fileID: 0}
         fsmTemplate: {fileID: 0}
       - fsmComponentID: 17348
@@ -837,45 +1214,315 @@ MonoBehaviour:
         fsmTemplate: {fileID: 0}
       forwardList: []
       selectionCache:
-      - fsmComponentID: -610448
+      - fsmComponentID: 22580
+        fsmTemplate: {fileID: 0}
+        stateName: hoLaPalla?
+        stateNames:
+        - hoLaPalla?
+        transitionIndex: -1
+        scrollPosition: {x: 111.984375, y: 446.39066}
+        zoom: 0.8200002
+      - fsmComponentID: 23052
         fsmTemplate: {fileID: 0}
         stateName: State 1
         stateNames: []
         transitionIndex: 0
         scrollPosition: {x: 0, y: 0}
         zoom: 1
-      - fsmComponentID: 22392
-        fsmTemplate: {fileID: 0}
-        stateName: init
-        stateNames: []
-        transitionIndex: 0
-        scrollPosition: {x: 0, y: 0}
-        zoom: 1
-      - fsmComponentID: 22610
+      - fsmComponentID: 22838
         fsmTemplate: {fileID: 0}
         stateName: Inizio
         stateNames: []
         transitionIndex: 0
         scrollPosition: {x: 0, y: 0}
         zoom: 1
-      - fsmComponentID: 22416
+      - fsmComponentID: -378996
         fsmTemplate: {fileID: 0}
-        stateName: Inizio
+        stateName: tifo
+        stateNames:
+        - esulto
+        - tifo
+        transitionIndex: -1
+        scrollPosition: {x: -16, y: 25.765625}
+        zoom: 1
+      - fsmComponentID: -515556
+        fsmTemplate: {fileID: 0}
+        stateName: tifo
+        stateNames:
+        - tifo
+        transitionIndex: -1
+        scrollPosition: {x: 0, y: 0}
+        zoom: 1
+      - fsmComponentID: -518440
+        fsmTemplate: {fileID: 0}
+        stateName: tifo
+        stateNames:
+        - tifo
+        transitionIndex: -1
+        scrollPosition: {x: 0, y: 0}
+        zoom: 1
+      - fsmComponentID: -521978
+        fsmTemplate: {fileID: 0}
+        stateName: tifo
+        stateNames:
+        - tifo
+        transitionIndex: -1
+        scrollPosition: {x: 0, y: 0}
+        zoom: 1
+      - fsmComponentID: -839560
+        fsmTemplate: {fileID: 0}
+        stateName: "stabilit\xE0"
+        stateNames: []
+        transitionIndex: 0
+        scrollPosition: {x: 0, y: 0}
+        zoom: 1
+      - fsmComponentID: -849792
+        fsmTemplate: {fileID: 0}
+        stateName: "stabilit\xE0"
+        stateNames:
+        - "stabilit\xE0"
+        transitionIndex: -1
+        scrollPosition: {x: 0, y: 0}
+        zoom: 1
+      - fsmComponentID: -883072
+        fsmTemplate: {fileID: 0}
+        stateName: "stabilit\xE0"
+        stateNames: []
+        transitionIndex: 0
+        scrollPosition: {x: 0, y: 0}
+        zoom: 1
+      - fsmComponentID: -890540
+        fsmTemplate: {fileID: 0}
+        stateName: tifo
+        stateNames:
+        - tifo
+        transitionIndex: -1
+        scrollPosition: {x: 0, y: 0}
+        zoom: 1
+      - fsmComponentID: -890536
+        fsmTemplate: {fileID: 0}
+        stateName: tifo
+        stateNames: []
+        transitionIndex: 0
+        scrollPosition: {x: 0, y: 0}
+        zoom: 1
+      - fsmComponentID: -890542
+        fsmTemplate: {fileID: 0}
+        stateName: tifo
+        stateNames:
+        - tifo
+        transitionIndex: -1
+        scrollPosition: {x: 0, y: 0}
+        zoom: 1
+      - fsmComponentID: -890532
+        fsmTemplate: {fileID: 0}
+        stateName: "stabilit\xE0"
+        stateNames: []
+        transitionIndex: 0
+        scrollPosition: {x: 0, y: 0}
+        zoom: 1
+      - fsmComponentID: -890528
+        fsmTemplate: {fileID: 0}
+        stateName: "stabilit\xE0"
+        stateNames: []
+        transitionIndex: 0
+        scrollPosition: {x: 0, y: 0}
+        zoom: 1
+      - fsmComponentID: -890538
+        fsmTemplate: {fileID: 0}
+        stateName: tifo
+        stateNames: []
+        transitionIndex: 0
+        scrollPosition: {x: 0, y: 0}
+        zoom: 1
+      - fsmComponentID: -890530
+        fsmTemplate: {fileID: 0}
+        stateName: "stabilit\xE0"
+        stateNames: []
+        transitionIndex: 0
+        scrollPosition: {x: 0, y: 0}
+        zoom: 1
+      - fsmComponentID: -890526
+        fsmTemplate: {fileID: 0}
+        stateName: "stabilit\xE0"
+        stateNames:
+        - "stabilit\xE0"
+        transitionIndex: -1
+        scrollPosition: {x: 0, y: 0}
+        zoom: 1
+      - fsmComponentID: -881022
+        fsmTemplate: {fileID: 0}
+        stateName: "stabilit\xE0"
+        stateNames: []
+        transitionIndex: 0
+        scrollPosition: {x: 0, y: 0}
+        zoom: 1
+      - fsmComponentID: -1021422
+        fsmTemplate: {fileID: 0}
+        stateName: tifo
+        stateNames: []
+        transitionIndex: 0
+        scrollPosition: {x: 0, y: 0}
+        zoom: 1
+      - fsmComponentID: -1021424
+        fsmTemplate: {fileID: 0}
+        stateName: tifo
+        stateNames: []
+        transitionIndex: 0
+        scrollPosition: {x: 0, y: 0}
+        zoom: 1
+      - fsmComponentID: -1021420
+        fsmTemplate: {fileID: 0}
+        stateName: tifo
+        stateNames: []
+        transitionIndex: 0
+        scrollPosition: {x: 0, y: 0}
+        zoom: 1
+      - fsmComponentID: -1021426
+        fsmTemplate: {fileID: 0}
+        stateName: tifo
+        stateNames: []
+        transitionIndex: 0
+        scrollPosition: {x: 0, y: 0}
+        zoom: 1
+      - fsmComponentID: -1108026
+        fsmTemplate: {fileID: 0}
+        stateName: tifo
+        stateNames: []
+        transitionIndex: 0
+        scrollPosition: {x: 0, y: 0}
+        zoom: 1
+      - fsmComponentID: -1108020
+        fsmTemplate: {fileID: 0}
+        stateName: tifo
+        stateNames: []
+        transitionIndex: 0
+        scrollPosition: {x: 0, y: 0}
+        zoom: 1
+      - fsmComponentID: -1100208
+        fsmTemplate: {fileID: 0}
+        stateName: tifo
+        stateNames: []
+        transitionIndex: 0
+        scrollPosition: {x: 0, y: 0}
+        zoom: 1
+      - fsmComponentID: -1100204
+        fsmTemplate: {fileID: 0}
+        stateName: tifo
+        stateNames: []
+        transitionIndex: 0
+        scrollPosition: {x: 0, y: 0}
+        zoom: 1
+      - fsmComponentID: -1095342
+        fsmTemplate: {fileID: 0}
+        stateName: tifo
+        stateNames: []
+        transitionIndex: 0
+        scrollPosition: {x: 0, y: 0}
+        zoom: 1
+      - fsmComponentID: -1095340
+        fsmTemplate: {fileID: 0}
+        stateName: tifo
+        stateNames: []
+        transitionIndex: 0
+        scrollPosition: {x: 0, y: 0}
+        zoom: 1
+      - fsmComponentID: 22390
+        fsmTemplate: {fileID: 0}
+        stateName: Controlla
         stateNames: []
         transitionIndex: 0
         scrollPosition: {x: 0, y: 0}
         zoom: 1
       recentlySelectedList:
-      - fsmComponentID: 22416
+      - fsmComponentID: 22390
         fsmComponent: {fileID: 0}
         fsmTemplate: {fileID: 0}
-      - fsmComponentID: 22610
+      - fsmComponentID: -1095340
         fsmComponent: {fileID: 0}
         fsmTemplate: {fileID: 0}
-      - fsmComponentID: 22392
+      - fsmComponentID: -1100204
         fsmComponent: {fileID: 0}
         fsmTemplate: {fileID: 0}
-      - fsmComponentID: -610448
+      - fsmComponentID: -1100208
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -1095342
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -1108026
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -1108020
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -1021426
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -1021420
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -1021424
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -890536
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -1021422
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -839560
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -378996
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -881022
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -515556
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -849792
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -518440
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -883072
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -521978
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -890542
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -890532
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -890540
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -890528
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -890538
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -890530
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -890526
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: 22838
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: 23052
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: 22580
         fsmComponent: {fileID: 0}
         fsmTemplate: {fileID: 0}
       - fsmComponentID: 17348
@@ -959,8 +1606,8 @@ MonoBehaviour:
     y: 0
     width: 281
     height: 731
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 277, y: 71}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 18}
   m_Panes:
   - {fileID: 18}
