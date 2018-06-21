@@ -8,6 +8,9 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/20180315-Corsini Nicolas-HW Lezione Unity.unity
     guid: 68ac7079462afe14faa4c539a254a803
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/20180405-Corsini Nicolas-HW Lezione Unity.unity
     guid: 699a7ba2af0e1f142b227e841a503628
+  - enabled: 1
+    path: Assets/Scenes/Bask8 lvl1.unity
+    guid: 9291cb5363daf2945b2fde71692c5f1c

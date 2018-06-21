@@ -1,6 +1,6 @@
 WindowsStandalone
 SceneListBegin?
-Assets/Scenes/20180405-Corsini Nicolas-HW Lezione Unity.unity
+Assets/Scenes/Bask8 lvl1.unity
 SceneListEnd?
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.LevelReset
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.SceneAndURLLoader
@@ -208,6 +208,7 @@ fd4c716250f6dd3c87b4adb235e7f022 PlayMaker.dll:.PlayMakerPrefs
 149e538468c9a609cf26b23682c996c7 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Utility.PlatformSpecificContent
 37bf4d6a6d424731cb4a9b998783e5c6 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Characters.ThirdPerson.ThirdPersonCharacter
 9927f9033995c048dcee5258ceb7659a Assembly-CSharp.dll:.CameraSwitch
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.Nigga
 4df86f437a61b08c14fd0adff88ddf71 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Utility.ActivateTrigger
 99d82a54c0f248d26b19d84543b9a1a1 Assembly-CSharp.dll:.PlayMakerUGuiPointerEventsProxy
 dd5481137759597d614818793c90a7fe Assembly-CSharp.dll:.Controller
@@ -272,6 +273,7 @@ aed7a093a3c9b018fe2666f3d94c06d5 Assembly-CSharp-firstpass.dll:UnityStandardAsse
 64eb32cc721b1cc68a91ed57461e188c UnityEngine.TestRunner.dll:UnityEngine.TestTools.TestRunner.Callbacks.RemoteTestResultSender
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp-firstpass.dll:.AlphaButtonClickMask
 e0f7ffd5d5c2abe4b2e16569a21163da UnityEngine.GoogleAudioSpatializer.dll:UnityEngine.Experimental.Audio.Google.GvrAudioRoom
+7481472d4e57e8477d484d43a43b79dc Assembly-CSharp-firstpass.dll:UnityStandardAssets.Characters.FirstPerson.FirstPersonController2
 e0f7ffd5d5c2abe4b2e16569a21163da UnityEngine.GoogleAudioSpatializer.dll:UnityEngine.Experimental.Audio.Google.GvrAudioRoom
 d2af69ce28cda6fcf0b7728ae3f251b4 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Utility.DynamicShadowSettings
 9383e0779cdaca0acd101f7f188e02bc Assembly-CSharp-firstpass.dll:UnityStandardAssets.Vehicles.Aeroplane.JetParticleEffect

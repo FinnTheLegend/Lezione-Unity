@@ -24,6 +24,7 @@ GameObject:
   - component: {fileID: 23269475728657388}
   - component: {fileID: 54880096065667300}
   - component: {fileID: 114211030982537656}
+  - component: {fileID: 114167821964401128}
   m_Layer: 0
   m_Name: Palla basket 1
   m_TagString: Ball
@@ -43,6 +44,7 @@ GameObject:
   - component: {fileID: 124777503147518376}
   - component: {fileID: 81046020610877890}
   - component: {fileID: 114553886279796946}
+  - component: {fileID: 114460429860825862}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: Untagged
@@ -176,6 +178,17 @@ AudioListener:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1854467281533636}
   m_Enabled: 1
+--- !u!114 &114167821964401128
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1795312075625634}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -664232604, guid: e743331561ef77147ae48cda9bcb8209, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!114 &114211030982537656
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -1462,7 +1475,7 @@ MonoBehaviour:
     locked: 0
     manualUpdate: 0
     keepDelayedEventsOnStateExit: 0
-    preprocessed: 0
+    preprocessed: 1
     ExposedEvents: []
     RestartOnEnable: 1
     EnableDebugFlow: 0
@@ -1488,14 +1501,25 @@ MonoBehaviour:
     handleJointBreak: 0
     handleJointBreak2D: 0
     handleOnGUI: 0
-    handleFixedUpdate: 0
+    handleFixedUpdate: 1
     handleLateUpdate: 0
     handleApplicationEvents: 0
     handleLegacyNetworking: 0
     handleAnimatorMove: 0
     handleAnimatorIK: 0
   fsmTemplate: {fileID: 0}
-  eventHandlerComponentsAdded: 0
+  eventHandlerComponentsAdded: 1
+--- !u!114 &114460429860825862
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1854467281533636}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1079068393, guid: e743331561ef77147ae48cda9bcb8209, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!114 &114553886279796946
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -1674,7 +1698,7 @@ MonoBehaviour:
     handleAnimatorMove: 0
     handleAnimatorIK: 0
   fsmTemplate: {fileID: 0}
-  eventHandlerComponentsAdded: 0
+  eventHandlerComponentsAdded: 1
 --- !u!124 &124777503147518376
 Behaviour:
   m_ObjectHideFlags: 1
